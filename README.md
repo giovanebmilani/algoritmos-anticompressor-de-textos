@@ -1,0 +1,1 @@
+# algoritmos-anticompressor-de-textos
